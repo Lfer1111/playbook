@@ -1,6 +1,6 @@
 # Weekly Mission 1
 
-<img src="https://user-images.githubusercontent.com/17634377/161416220-9c68ef3c-8e40-41f9-8963-556d73cb06f4.png">
+<img src="https://github.com/Lfer1111/playbook/blob/main/weekly_mission_1/1%20pase%20de%20abordar.png">
 
 ## Mis Outputs de los ejercicios
 
