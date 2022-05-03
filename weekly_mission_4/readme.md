@@ -10,4 +10,4 @@ Proyectos desarrollados en la semana 4:
 |`Trello`|6|[Link al repo](https://github.com/Lfer1111/trelloJS_launchX)|
 |`Trello JS Fork`|7|[Link al repo](https://github.com/Lfer1111/trello)|
 
-<img src="https://user-images.githubusercontent.com/17634377/165124418-8396bcb9-9845-494d-a362-7be3db99b748.png">
+<img src="https://github.com/Lfer1111/playbook/blob/main/weekly_mission_4/4%20pase%20de%20abordar.png">
